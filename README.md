@@ -263,40 +263,31 @@ flutter run
 ## Imágenes
 
 ### Pantalla de Introducción
-![Intro Screen](ruta/a/imagen_intro.png)
+![image](https://github.com/x0chipa/hungry_hund/assets/68248983/e515a13e-2f2c-41e2-8939-807323ad7d74)
+
 
 ### Pantalla de Inicio de Sesión
-![Login Screen](ruta/a/imagen_login.png)
+![image](https://github.com/x0chipa/hungry_hund/assets/68248983/00473c2a-3d8e-49cf-bdf8-5f382478ef6e)
+
 
 ### Pantalla de Registro
-![Register Screen](ruta/a/imagen_register.png)
+![image](https://github.com/x0chipa/hungry_hund/assets/68248983/d1950463-3a41-463d-a88b-c5282ad266a0)
+
 
 ### Pantalla Principal
-![Home Screen](ruta/a/imagen_home.png)
+![image](https://github.com/x0chipa/hungry_hund/assets/68248983/960476f0-ebb3-4672-a53a-8172bf0bb231)
+
 
 ### Pantalla de Detalle de Producto
-![Product Detail Screen](ruta/a/imagen_product_detail.png)
+![image](https://github.com/x0chipa/hungry_hund/assets/68248983/0f80b200-ae38-4470-8cb1-91706c7a7bd3)
+
 
 ### Pantalla de Carrito
-![Cart Screen](ruta/a/imagen_cart.png)
+![image](https://github.com/x0chipa/hungry_hund/assets/68248983/6d0a081d-a3dc-4755-b7b0-44bcbfbff2d2)
+
 
 ### Pantalla de Favoritos
-![Favorite Screen](ruta/a/imagen_favorite.png)
+![image](https://github.com/x0chipa/hungry_hund/assets/68248983/3c742b41-75b8-4186-b544-b57f6a589fd7)
 
-## Contribución
-
-Si deseas contribuir a este proyecto, por favor sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza tus cambios y haz commit (`git commit -m 'Agrega nueva funcionalidad'`).
-4. Haz push a la rama (`git push origin feature/nueva-funcionalidad`).
-5. Abre un Pull Request.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
----
 
 Asegúrate de reemplazar las rutas de las imágenes con las correctas según su ubicación en tu proyecto. Si necesitas más ayuda o ajustes, no dudes en decírmelo.
