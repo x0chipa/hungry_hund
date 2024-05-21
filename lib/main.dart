@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
           PointerDeviceKind.mouse,
           PointerDeviceKind.touch,
         },
-      ),
+      ),  
       home: const IntroScreen(),
       theme: AppTheme.lightTheme,
     );
